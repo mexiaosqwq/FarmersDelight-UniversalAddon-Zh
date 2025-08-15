@@ -13,7 +13,7 @@
 |----------|------------------|----------|
 | 箱装乐事：作物盛景 | `cratedelightcroptopia` | ✅ 完成 |
 | 英灵神殿乐事（Valheim Delight） | `valheim_delight` | ✅ 完成 |
-| 箱装乐事 | `cratedelight` | ✅ 完成 |
+| 打包乐事 | `cratedelight` | ✅ 完成 |
 | 橡木乐事（Oaks Delight） | `oaksdelight` | ✅ 完成 |
 | 任意乐事（Arbitrary Delight） | `arbitrarydelight` | ✅ 完成 |
 
