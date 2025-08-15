@@ -1,2 +1,61 @@
-# FarmersDelight-UniversalAddon-Zh
-农夫乐事（Farmer’s Delight）附属 [附属模组名] 的简体中文汉化包。  
+# 🌾 农夫乐事（Farmer’s Delight）通用附属汉化包
+**Universal Simplified Chinese localization for Farmer’s Delight add-ons**
+
+---
+
+## 📖 简介
+本项目是针对 **农夫乐事（Farmer’s Delight）** 系列附属模组的 **通用简体中文汉化包**。  
+安装后可为多种 FD 附属模组提供简中翻译，并保持与农夫乐事 **官方译名风格一致**。  
+除了为未汉化的模组提供完整翻译外，还对部分已有模组中的**错误或不统一的译文进行修正与优化**。
+
+---
+
+## 📦 当前支持的附属模组(注:附属名暂译,游戏中不汉化)
+| 附属模组 | 英文包名（Mod ID） | 汉化状态 |
+|----------|------------------|----------|
+| 箱装乐事：作物盛景 | `cratedelightcroptopia` | ✅ 完成 |
+| 英灵神殿乐事（Valheim Delight） | `valheim_delight` | ✅ 完成 |
+| 箱装乐事 | `cratedelight` | ✅ 完成 |
+| 橡木乐事（Oaks Delight） | `oaksdelight` | ✅ 完成 |
+| 任意乐事（Arbitrary Delight） | `arbitrarydelight` | ✅ 完成 |
+
+> 后续将持续更新，欢迎反馈新的附属模组汉化需求！
+
+---
+
+## 🔧 修正与优化
+本汉化包还包含了对部分已有汉化内容的修订，主要包括：
+- 修正错别字及语法错误  
+- 统一物品、方块、实体等名称的翻译规范  
+- 对部分晦涩或生硬的直译进行本地化优化  
+- 修正与农夫乐事官方译文风格不一致的词条  
+
+---
+
+## 🛠️ 适配环境
+| 类型 | 版本 |
+|------|------|
+| **Minecraft** | 1.21+ |
+| **Farmer’s Delight** | 1.2.8+ |
+| **附属模组** | 通用支持 |
+
+---
+
+## 📥 安装方法
+1. 前往 [Releases](../../releases) 页面下载最新版本，或在仓库主页点击绿色按钮 **`Code → Download ZIP`**  
+2. 将 `.zip` 文件直接放入以下目录之一：
+   - `resourcepacks`（资源包）
+   - 或数据包版本放入 `datapacks`
+3. 启动游戏并在设置中启用即可
+
+---
+
+## 📜 许可证
+本项目使用 **[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)** 协议发布。  
+允许任何人自由复制、修改、整合，无需征得作者同意，也无需署名。
+
+---
+
+## ⭐ 鸣谢
+- **Farmer’s Delight** 原作者  
+- 所有提供反馈与测试的玩家与服务器
