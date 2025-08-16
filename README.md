@@ -16,6 +16,7 @@
 | 打包乐事 | `cratedelight` | ✅ 完成 |
 | 橡木乐事（Oaks Delight） | `oaksdelight` | ✅ 完成 |
 | 任意乐事（Arbitrary Delight） | `arbitrarydelight` | ✅ 完成 |
+| 农夫乐事：扩展食物 | farmersdelight extended | ⏳ 待完成 |
 
 > 后续将持续更新，欢迎反馈新的附属模组汉化需求！
 
