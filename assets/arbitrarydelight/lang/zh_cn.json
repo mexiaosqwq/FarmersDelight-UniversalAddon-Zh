@@ -45,5 +45,18 @@
 "block.arbitrarydelight.glow_berry_cheesecake": "发光浆果芝士蛋糕",
 "block.arbitrarydelight.honey_pie": "蜂蜜派",
 "block.arbitrarydelight.honey_glazed_chocolate_pie": "蜂蜜釉巧克力派",
-"block.arbitrarydelight.shredded_cheese_bag": "袋装切丝芝士"
+"block.arbitrarydelight.shredded_cheese_bag": "袋装切丝芝士",
+  "item.arbitrarydelight.chorus_fruit_cookie": "紫颂果曲奇",
+  "item.arbitrarydelight.honey_popsicle": "蜂蜜冰棍",
+  "item.arbitrarydelight.honey_custard": "蜂蜜奶昔",
+  "item.arbitrarydelight.honey_glazed_chocolate_popsicle": "蜜淋巧克力冰棍",
+  "item.arbitrarydelight.chorus_fruit_juice": "紫颂果汁",
+  "item.arbitrarydelight.dark_cocoa_beans": "黑可可豆",
+  "item.arbitrarydelight.hot_dark_cocoa": "热黑可可",
+  "item.arbitrarydelight.dark_chocolate_cookie": "黑巧克力曲奇",
+  "item.arbitrarydelight.dark_chocolate_popsicle": "黑巧克力冰棍",
+  "item.arbitrarydelight.dark_chocolate_custard": "黑巧克力奶昔",
+  "effect.arbitrarydelight.unstable_chorus": "不稳定的紫颂",
+  "farmersdelight.tooltip.hot_dark_cocoa": "清除 1 个负面效果",
+  "itemGroup.arbitrarydelight": "随心乐事"
 }
