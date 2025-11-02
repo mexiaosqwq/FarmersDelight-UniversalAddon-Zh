@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_christmas_pudding_slice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "windswept_delights:christmas_pudding_slice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "windswept_delights:christmas_pudding_from_slices"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_christmas_pudding_slice",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "windswept_delights:christmas_pudding_from_slices"
+    ]
+  },
+  "sends_telemetry_event": false
+}

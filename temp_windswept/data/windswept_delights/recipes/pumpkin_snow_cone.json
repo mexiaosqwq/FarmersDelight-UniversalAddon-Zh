@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "windswept:pinecone"
+    },
+    {
+      "item": "farmersdelight:pumpkin_slice"
+    },
+    {
+      "item": "minecraft:snowball"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "windswept_delights:pumpkin_snow_cone"
+  }
+}

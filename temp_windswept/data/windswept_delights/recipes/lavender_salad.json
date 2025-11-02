@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "forge:salad_ingredients/cabbage"
+    },
+    {
+      "item": "windswept:lavender"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "item": "minecraft:carrot"
+    }
+  ],
+  "result": {
+    "item": "windswept_delights:lavender_salad"
+  }
+}

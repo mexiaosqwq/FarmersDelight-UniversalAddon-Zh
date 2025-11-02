@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "windswept_delights:wild_berry_juice"
+    }
+  ],
+  "result": {
+    "item": "minecraft:sugar"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+      {
+        "item": "windswept:ginger_root"
+      },
+      {
+        "item": "windswept:mimosa"
+      },
+      {
+        "item": "windswept:mimosa"
+      }
+  ],
+  "result": {
+    "item": "windswept_delights:mimosa_soup"
+  },
+  "experience": 1.0,
+  "cookingtime": 200,
+  "container": {
+    "item": "minecraft:bowl"
+  }
+}

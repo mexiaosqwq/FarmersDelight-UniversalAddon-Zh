@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_holly_trapdoor": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "windswept:holly_trapdoor"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "windswept_delights:holly_cabinet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_holly_trapdoor",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "windswept_delights:holly_cabinet"
+    ]
+  },
+  "sends_telemetry_event": false
+}

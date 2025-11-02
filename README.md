@@ -17,6 +17,7 @@
 | 橡木乐事（Oaks Delight） | `oaksdelight` | ✅ 完成 |
 | 任意乐事（Arbitrary Delight） | `arbitrarydelight` | ✅ 完成 |
 | 农夫乐事：扩展食物 | `farmersdelight extended` | ✅ 完成 |
+| 风之乐事（Windswept Delights） | `windswept_delights` | ✅ 完成 |
 
 > 后续将持续更新，欢迎反馈新的附属模组汉化需求！
 
