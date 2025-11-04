@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "windswept_delights:block/chestnut_cabinet_front",
-    "side": "windswept_delights:block/chestnut_cabinet_side",
-    "top": "windswept_delights:block/chestnut_cabinet_end"
-  }
-}
